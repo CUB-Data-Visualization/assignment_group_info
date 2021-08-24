@@ -22,7 +22,7 @@
 
 ## 3. Something fun
 
-> Add a picture of yourself doing something you enjoy outside school (hiking, cooking, playing music, reading, etc) to the images folder and link to it here with a descriptive title (for mouseover). Make sure that images are not too big and in **jpeg/jpg** or **png** format. A width of 600 to maximally 1200 pixels is typically plenty large (i.e. less than **~2Mb**). You can scale your image to these dimensions using any photo editing software. For example, a convenient free online tool for scaling images is available at https://www168.lunapic.com/editor/?action=scale
+> Add a picture of yourself doing something you enjoy outside school (hiking, cooking, playing music, reading, etc) to the images folder and link to it here with a descriptive title (for mouseover). Make sure that images are not too big and in **jpeg/jpg** or **png** format. A width of 600 to maximally 1200 pixels is typically plenty large (i.e. less than **~2Mb**). You can scale your image to these dimensions using any photo editing software. For example, a convenient free online tool for scaling images is available at http://www.simpleimageresizer.com/
 
 ![](images/example.png "Title: Me doing something fun")
 
