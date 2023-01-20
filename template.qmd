@@ -1,6 +1,7 @@
 ---
 title: GitHub & Markdown Exercise
 format: html
+embed-resources: true
 editor: source
 ---
 
