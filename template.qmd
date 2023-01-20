@@ -38,13 +38,15 @@ editor: source
 
 # 3. Favorite equation
 
-> Tell & show us one of oyur favorite equations to practice some $\LaTeX$ math. It does not have to be a complicated one. Have fun with it.
+> Tell & show us one of your favorite equations to practice some LaTeX math. It does not have to be a complicated one. Have fun with it.
 
-@eq-fav is the mass-energy equivalence equation, one of my favorite equations in the whole wide world.
+@eq-fav is the mass-energy equivalence equation ($E = m c^2$), one of my favorite equations in the whole wide world.
 
 $$
 E = m \cdot c^2
-$$ {#eq-fav}
+$${#eq-fav}
+
+{{< pagebreak >}}
 
 # 4. Favorite flow chart
 
