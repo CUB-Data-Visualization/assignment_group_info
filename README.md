@@ -14,7 +14,7 @@ Make sure to complete the Git training first before tackling this assignment. Th
 1. find the location of the repository folder on your computer
 1. open the `project.Rproj` file with *RStudio* (in some operating systems you can just double-click the file), this will launch *RStudio* in your repository
 1. open the `template.qmd` notebook file in *RStudio* and **save it as new file** with your name in it and the file ending `.qmd` in the same folder, for example `inigo_montoya.qmd`
-1. add image(s) to the `images` folder as described in the instructions for question 3 (in the `template.qmd` file)
-1. make sure your notebook file can render and generate an up to date `.html` version
-1. commit your changes to your branch and push them back to GitHub (don't merge yet, we'll do that together in the next class!). Also note that the `.html` file should not be added to GitHub (and will not be by default)
+1. complete all the questions in your `.qmd` file, remove the instructions (starting with `>`) and examples as you go, and commit your changes to your branch along the way
+1. make sure your `.qmd` notebook file continues to render to `.html`
+1. push all your commits back to GitHub (don't merge your branch yet, we'll do that together in the next class!). Note that the `.html` file should not be added to GitHub (and will not be by default)
 1. submit the rendered `.html` file on canvas
