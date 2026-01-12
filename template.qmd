@@ -64,7 +64,7 @@ graph LR
 ```
 
 ::: callout-tip
-Mermaid diagrams don't render live yet in RStudio but you can use the [Mermaid Live Editor](https://mermaid.live/edit) if you want to see the output immediately.
+Click on the "Preview" button above the code block to render your chart or use the [Mermaid Live Editor](https://mermaid.live/edit) if you want to see the output immediately.
 :::
 
 # 5. Something fun
