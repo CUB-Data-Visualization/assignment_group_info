@@ -12,7 +12,7 @@ Make sure to complete the Git training first before tackling this assignment. Th
 1. create a branch off of `main` with a descriptive name (ideally including your initials)
 1. work in your branch!!! not on `main`
 1. find the location of the repository folder on your computer
-1. right-click on the folder and open it with *Positron*
+1. start *Positron* and open your repository folder (not its parent directory, the actual repo folder) with `File` -> `Open Folder` from the menu
 1. open the `template.qmd` notebook file in *Positron* and **save it as new file** with your name in it and the file ending `.qmd` in the same folder, for example `inigo_montoya.qmd`
 1. complete all the questions in your `.qmd` file, remove the instructions (starting with `>`) and examples as you go, and commit your changes to your branch along the way
 1. make sure your `.qmd` notebook file continues to render to `.html`
